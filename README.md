@@ -1,4 +1,4 @@
-# { name } resume
+# 大西一輝 resume
 
 ## Sample
 
